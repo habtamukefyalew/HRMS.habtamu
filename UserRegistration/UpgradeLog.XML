@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UserRegistration">
+</Property><Property Name="Solution File" Value="D:\New Folder (6)\UserRegistration\UserRegistration\UserRegistration.sln">
+</Property><Property Name="User Options File" Value="D:\New Folder (6)\UserRegistration\UserRegistration\UserRegistration.suo">
+</Property><Property Name="Date" Value="Saturday, July 27, 2013">
+</Property><Property Name="Time" Value="14:18 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UserRegistration.sln" Description="File successfully backed up as D:\New Folder (6)\UserRegistration\UserRegistration\Backup\UserRegistration.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UserRegistration.suo" Description="File successfully backed up as D:\New Folder (6)\UserRegistration\UserRegistration\Backup\UserRegistration.suo">
+</Event><Event ErrorLevel="1" Project="UserRegistration" Source="..\UserRegistration" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="UserRegistration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UserRegistration.sln" Description="Converted">
+</Event></UpgradeLog>
